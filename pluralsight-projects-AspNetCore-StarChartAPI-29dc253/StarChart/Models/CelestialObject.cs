@@ -15,10 +15,10 @@ namespace StarChart.Models
         [Required]
         public string Name { get; set; }
 
-        public int? OrbitedObjectid { get; set; }
+        public int? OrbitedObjectId { get; set; }
 
         [NotMapped]
-        public List<CelestialObject> Sattelites { get; set; }
+        public List<CelestialObject> Satellites { get; set; }
 
         public TimeSpan OrbitalPeriod { get; set; }
     }
