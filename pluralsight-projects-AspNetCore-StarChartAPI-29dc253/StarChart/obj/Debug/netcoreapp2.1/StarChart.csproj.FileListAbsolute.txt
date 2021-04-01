@@ -1,0 +1,15 @@
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.deps.json
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.runtimeconfig.json
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.runtimeconfig.dev.json
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.dll
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\bin\Debug\netcoreapp2.1\StarChart.pdb
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.csprojAssemblyReference.cache
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfoInputs.cache
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.AssemblyInfo.cs
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.csproj.CoreCompileInputs.cache
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cache
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorAssemblyInfo.cs
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.RazorTargetAssemblyInfo.cache
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.dll
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.pdb
+D:\Mostafa\VS\pluralsight-projects-AspNetCore-StarChartAPI-29dc253\StarChart\obj\Debug\netcoreapp2.1\StarChart.genruntimeconfig.cache
